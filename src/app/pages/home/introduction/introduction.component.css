@@ -1,0 +1,23 @@
+.introduction {
+	background: rgba(0, 0, 0, 0.8) url('../../../../assets/home/1.jpg');
+	background-blend-mode: darken;
+	background-repeat: no-repeat;
+  	background-size : cover;
+	background-position: center;
+	height: 66vh;	
+}
+
+.centrado {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 300px;
+}
+
+h1,h2,h3 {
+	color: whitesmoke;
+}
+
+h2 {
+	font-size: 25px;
+}
